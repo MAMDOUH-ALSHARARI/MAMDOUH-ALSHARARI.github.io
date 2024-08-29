@@ -23,10 +23,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# جَلَّى
 
-title: Douhij
+title: AJJAD
 email: mamdouh.h.alsharari@gmail.com
-author: GitHub User
+author: Mamdouh Alsharari
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,11 +41,13 @@ author: GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2017-{2024} {Mamdouh Alsharari}"
 
 description: >- # this means to ignore newlines until "baseurl:"
 
   This platform will freely introduce knowledge on various fields and topics, including blogs and tutorials. It is available for everyone to share their knowledge by writing blogs or tutorials.
+
+  This Blog created by Mamdouh Alsharari, it aims to introduce topics in Computer Sience such as Artificial intelligence, Algorithms, software develpments from Mamdouh's point of view, and will be usful for floks and profiencials as well.'.
 
 
   #Anyone interested in being part of this platform can contact me at 'mamdouh.h.alsharari@gmail.com'.
