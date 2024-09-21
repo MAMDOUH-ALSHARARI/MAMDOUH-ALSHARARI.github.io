@@ -3,12 +3,12 @@ layout: framework
 sidebar: category-list
 ---
 
+
 <div class="articles">
   {% if page.banner == nil %}
   {% assign banner = page.title %}
   {% endif %}
-  I'm here in the 'articles
-  '
+
   {{ content }}
 
   {% include views/pagination.html %}
