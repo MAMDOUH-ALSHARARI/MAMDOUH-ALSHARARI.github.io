@@ -192,12 +192,25 @@ html {
   @include relative-font-size(1.0);
   color: $footer-text-color;
   background-color: $footer-background-color;
-  text-align: left;
+  align-items: center;
   transition: background-color 0.2s;
+  padding: 15px;
+  justify-content: space-between;
+  display: flex;
+  
 
-  .site-footer-inner {
+  .site-footer-inner1 {
     transition: border-top 0.2s;
     padding: $spacing-unit * 1.8 0;
+    text-align: left;
+    
+  }
+
+  .site-footer-inner2 {
+    transition: border-top 0.2s;
+    padding: $spacing-unit * 1.8 0;
+    text-align: right;
+    
   }
 
   a {
