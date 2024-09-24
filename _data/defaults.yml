@@ -1,6 +1,8 @@
 home:
-  heading: Knowlege for everyone
+  heading: "Your awesome heading"
+  #Knowlege for everyone
   #"Your awesome heading"
-  subheading: Knowlege consists of different inforation well structured
+  subheading: "Your awesome subheading"
+  #Knowlege consists of different inforation well structured
   #"Your awesome subheading"
   banner: "Your image url"
